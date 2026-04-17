@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Apbot Chat</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <div class="header">
+      <div class="logo-circle">
+        <span class="ap-logo">ap</span>
+      </div>
+      <div class="header-title">Assistant</div>
+    </div>
+    <!-- Chat Box -->
+    <div class="chat-box" id="chatBox">
+      <div class="message bot-message">Hello! How can I assist you today?</div>
+      <div class="message bot-message">Please choose the software you need help with:</div>
+      <div class="button-container">
+        <button class="round-button" onclick="sendQuickOption('Server', this)">Server</button>
+        <button class="round-button" onclick="sendQuickOption('Adapter', this)">Adapter</button>
+        <button class="round-button" onclick="sendQuickOption('AGM', this)">AGM</button>
+      </div>
+    </div>
+
+    <!-- Input Box -->
+    <div class="input-box">
+      <input type="text" id="userInput" placeholder="Type your message..." onkeypress="handleKeyPress(event)" />
+      <button id="sendButton" class="round-button" onclick="sendMessage()">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M22 2L11 13" stroke="white" stroke-width="2" stroke-linecap="round"/>
+          <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Email Popup -->
+  <div id="emailPopup" class="bubble-modal">
+    <span id="closeEmailPopup" onclick="closeEmailPopup()">×</span>
+    <h3>Send Support Email</h3>
+    <input type="text" id="emailName" placeholder="Your Name" class="bubble-input" />
+    <input type="email" id="emailFrom" placeholder="Your Email" class="bubble-input" />
+    <textarea id="emailMessage" rows="5" placeholder="Describe your issue..." class="bubble-input"></textarea>
+    <button onclick="sendEmail()" class="bubble-button">Send Email</button>
+  </div>
+
+  <script src="../static/js/script.js"></script>
+</body>

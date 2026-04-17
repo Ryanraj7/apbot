@@ -1,0 +1,1142 @@
+intent|response
+Hello! How can I assist you today?|Hello! How can I assist you today?
+Hi there, how can you help me?|Hello! How can I assist you today?
+What can you do for me today?|Hello! How can I assist you today?
+Good day, what assistance can you provide?|Hello! How can I assist you today?
+How may I be of service?|Hello! How can I assist you today?
+Can you help me with something?|Hello! How can I assist you today?
+
+hello|Hello! How are you doing today?
+hi there|Hello! How are you doing today?
+hey there|Hello! How are you doing today?
+good morning|Hello! How are you doing today?
+good afternoon|Hello! How are you doing today?
+greetings|Hello! How are you doing today?
+
+I'm good|Good to hear!
+I'm doing well|Good to hear!
+I'm fine|Good to hear!
+All good here|Good to hear!
+Everything's great|Good to hear!
+I'm doing fine|Good to hear!
+
+hey|Hello!
+hi|Hello!
+sup|Hello!
+what's up|Hello!
+yo|Hello!
+howdy|Hello!
+
+hey AP|Hello Sir
+hello AP|Hello Sir
+hi AP|Hello Sir
+good day AP|Hello Sir
+greetings AP|Hello Sir
+what's up AP|Hello Sir
+
+I'm good, how are you|I'm doing great! What can I help you with today?
+I'm fine, how about you|I'm doing great! What can I help you with today?
+I'm well, and you|I'm doing great! What can I help you with today?
+All good, how are you doing|I'm doing great! What can I help you with today?
+I'm great, what about you|I'm doing great! What can I help you with today?
+Fine thanks, how are you|I'm doing great! What can I help you with today?
+
+hi|Hello!
+hello|Hello!
+hey there|Hello!
+good day|Hello!
+greetings|Hello!
+what's up|Hello!
+
+What is your name|I'm APbot, your AI-powered assistant here to make asset management easier.
+What should I call you|I'm APbot, your AI-powered assistant here to make asset management easier.
+Who are you|I'm APbot, your AI-powered assistant here to make asset management easier.
+What's your name|I'm APbot, your AI-powered assistant here to make asset management easier.
+Can you tell me your name|I'm APbot, your AI-powered assistant here to make asset management easier.
+How do I address you|I'm APbot, your AI-powered assistant here to make asset management easier.
+
+hy|Hi!
+hey|Hi!
+hello|Hi!
+what's up|Hi!
+good day|Hi!
+greetings|Hi!
+
+mate|Hello!
+buddy|Hello!
+friend|Hello!
+pal|Hello!
+dude|Hello!
+bro|Hello!
+
+hey support|Hello
+hi support|Hello
+support team|Hello
+need support|Hello
+help desk|Hello
+customer service|Hello
+
+goodbye|Goodbye! Have a great day!
+bye|Goodbye! Have a great day!
+see you later|Goodbye! Have a great day!
+take care|Goodbye! Have a great day!
+catch you later|Goodbye! Have a great day!
+have a good one|Goodbye! Have a great day!
+
+add asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+how to add asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+create new asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+how can I add an asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+add new asset to system|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+steps to add asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+
+insert asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+how to insert asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+insert new asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+asset insertion process|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+how do I insert an asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+steps to insert asset|Click Admin - Asset - Manage asset - fill the form Asset serial - Asset Name - RFID (select the RFID you want to add), fill the rest of the fields and save.
+
+dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+what is dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+dashboard overview|The Dashboard displays the map of your organization with the number of assets located at various places.
+dashboard information|The Dashboard displays the map of your organization with the number of assets located at various places.
+tell me about dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+dashboard details|The Dashboard displays the map of your organization with the number of assets located at various places.
+
+dashboard view|The Dashboard displays the map of your organization with the number of assets located at various places.
+how to view dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+dashboard viewing|The Dashboard displays the map of your organization with the number of assets located at various places.
+see dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+dashboard display|The Dashboard displays the map of your organization with the number of assets located at various places.
+check dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+
+view dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+show dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+open dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+access dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+go to dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+display dashboard|The Dashboard displays the map of your organization with the number of assets located at various places.
+
+license validation|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+how to validate license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license validation process|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+check license validity|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+validate my license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license verification|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+
+license check|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+check license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license status check|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+verify license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license information|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+how to check license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+
+validate license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license validation|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+validate software license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+how do I validate license|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+license validation steps|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+perform license validation|The AssetGather Server software comes with an asset limit for each license. When the number of tagged assets in the AssetGather Database exceeds the purchased license limit, a message "License Asset Limit Breach."
+
+dashboard reports|Dashboard Reports display different reports based on the latest 10 transactions.
+reports on dashboard|Dashboard Reports display different reports based on the latest 10 transactions.
+dashboard reporting|Dashboard Reports display different reports based on the latest 10 transactions.
+view dashboard reports|Dashboard Reports display different reports based on the latest 10 transactions.
+dashboard report section|Dashboard Reports display different reports based on the latest 10 transactions.
+what are dashboard reports|Dashboard Reports display different reports based on the latest 10 transactions.
+
+view reports|Dashboard Reports display different reports based on the latest 10 transactions.
+show reports|Dashboard Reports display different reports based on the latest 10 transactions.
+display reports|Dashboard Reports display different reports based on the latest 10 transactions.
+see reports|Dashboard Reports display different reports based on the latest 10 transactions.
+access reports|Dashboard Reports display different reports based on the latest 10 transactions.
+check reports|Dashboard Reports display different reports based on the latest 10 transactions.
+
+reports on dashboard|Dashboard Reports display different reports based on the latest 10 transactions.
+dashboard reports view|Dashboard Reports display different reports based on the latest 10 transactions.
+reports in dashboard|Dashboard Reports display different reports based on the latest 10 transactions.
+dashboard report display|Dashboard Reports display different reports based on the latest 10 transactions.
+how to see reports on dashboard|Dashboard Reports display different reports based on the latest 10 transactions.
+view reports from dashboard|Dashboard Reports display different reports based on the latest 10 transactions.
+
+tagging progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+asset tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+view tagging progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+tagging status reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+show tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+
+progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+view progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+progress reporting|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+show progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+check progress reports|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+progress status|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+
+view tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+check tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+see tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+tagging progress status|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+show tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+display tagging progress|Displays the graphical representation of the number of assets tagged by using a handheld reader. It illustrates the tagging progress by date.
+
+manage asset|Here you can add an asset by filling the form.
+asset management|Here you can add an asset by filling the form.
+how to manage asset|Here you can add an asset by filling the form.
+manage assets|Here you can add an asset by filling the form.
+asset management section|Here you can add an asset by filling the form.
+manage my assets|Here you can add an asset by filling the form.
+
+import assets|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+bulk import assets|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+how to import assets|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+asset import process|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+upload asset list|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+import asset data|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+
+import asset file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+upload asset file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+import excel file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+asset file import|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+how to import asset file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+import xlsx file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+
+upload asset file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+how to upload asset file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+asset file upload|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+upload excel file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+file upload process|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+upload asset data file|Under Manage Assets tab, click on Import Assets option. An Import Assets screen is displayed. Click to select the .XLS/.XLSX file that contains the list of assets. Once you select the file and click Open, the file is automatically uploaded.
+
+business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+what is business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business activity tab|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business activity section|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business activities|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+show business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+
+view business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+check business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+see business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business activity details|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+access business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+display business activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+
+inventory activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+view inventory activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+inventory activities|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+check inventory activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+inventory activity tab|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+show inventory activity|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+
+track and trace|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset tracking|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+how to track and trace|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+track assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+trace assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset trace|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+
+trace assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+how to trace assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset tracing|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+trace my assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset trace function|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+trace asset location|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+
+track asset movement|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset movement tracking|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+how to track asset movement|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+monitor asset movement|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+track movement of assets|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+asset location tracking|You can track and trace the assets, location, and movement of assets from one location to another by using this option - For more details please download our user guide by clicking admin - about - user guide.
+
+alerts and rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+what are alerts and rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+alerts and rules tab|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+alert rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+system alerts|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+rule configuration|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+
+setup alerts|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+how to setup alerts|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+configure alerts|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+create alerts|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+alert setup|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+set up alert system|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+
+create rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+how to create rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+setup rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+configure rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+rule creation|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+add new rules|The Alerts and Rules tab helps you to set up rules to raise alerts and view them. To create an alert or rule, please download our user guide by clicking admin - about - user guide or please email our support to support@assetpulse.com.
+
+location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location details|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location information|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location management|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+manage locations|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location tab|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+
+view location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+see location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+check location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+show location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+display location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+access location|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+
+location details|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location information|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+get location details|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+show location details|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+location info|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+view location details|You can view the details of the location and sub location in the hierarchical order in this tab. Click on a location or sub location to view the corresponding map. You can add, edit or delete a location or sub location.
+
+devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device management|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+what are devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device section|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device tab|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device options|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+
+manage devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+how to manage devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device management options|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+manage my devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device administration|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+control devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+
+device settings|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device configuration|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+configure devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device setup|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+set up devices|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+device options|Devices enables you to manage existing devices and create new devices. You can manage both fixed readers and mobile readers, and also manage the mobile download filters.
+
+general|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+general tab|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+general section|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+what is general|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+general options|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+general settings area|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+
+general settings|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+how to access general settings|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+general configuration|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+system general settings|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+configure general settings|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+view general settings|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+
+manage users|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+user management|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+how to manage users|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+user administration|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+add users|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+create users|Click the general tab to manage users, track user logs, change the logo, configure the email settings and backup settings. You can also view the list of scheduled reports. You can create users with different privileges in this tab.
+
+about|You can check the software version, update, and user guide.
+about section|You can check the software version, update, and user guide.
+about tab|You can check the software version, update, and user guide.
+about information|You can check the software version, update, and user guide.
+software about|You can check the software version, update, and user guide.
+view about|You can check the software version, update, and user guide.
+
+what is software version|You can check the software version, update and user guide by clicking Admin - about.
+software version|You can check the software version, update and user guide by clicking Admin - about.
+check software version|You can check the software version, update and user guide by clicking Admin - about.
+version information|You can check the software version, update and user guide by clicking Admin - about.
+current version|You can check the software version, update and user guide by clicking Admin - about.
+software version details|You can check the software version, update and user guide by clicking Admin - about.
+
+user guide|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+how to access user guide|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+download user guide|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+user manual|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+help guide|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+user documentation|You can check the software version, update, and user guide by clicking Admin - about - user guide.
+
+admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin panel|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+administration|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin section|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+what is admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin area|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+
+admin options|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+what are admin options|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin menu|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+administration options|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin features|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin functions|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+
+admin tab|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin tab options|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+what's in admin tab|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin tab contents|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin tab features|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin tab sections|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+
+view admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+see admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+access admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+show admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+open admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+go to admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+
+admin settings|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin configuration|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+administration settings|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin setup|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+configure admin|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+admin control panel|The Admin tab consists of the following options: Asset, Location, Devices, General, and About.
+
+Unassigned|This shows the unassigned assets list.
+unassigned assets|This shows the unassigned assets list.
+view unassigned|This shows the unassigned assets list.
+unassigned items|This shows the unassigned assets list.
+assets not assigned|This shows the unassigned assets list.
+show unassigned assets|This shows the unassigned assets list.
+
+business|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business tab|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business section|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+what is business|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+business information|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+view business|This tab displays the business activities like the position of inventory and movement of inventory carried over in the organization for a specific period in specific locations for various assets. You can also view the list of recent alerts for any particular period of time includes inventory, transaction, difference report and custom report, For more details please download our user guide by clicking admin - about - user guide.
+
+Delete asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+how to delete asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+delete an asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+asset deletion|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+remove an asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+can I delete asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+
+remove asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+how to remove asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+asset removal|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+remove an asset from system|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+delete or remove asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+how do I remove asset|To delete an asset, click on Track and Trace, select the asset you want to delete, and click the trash button in the right corner. Alternatively, scroll down to find the Delete option, select it, and confirm to delete the asset.
+
+Trace history|It displays the asset trace
+asset trace history|It displays the asset trace
+view trace history|It displays the asset trace
+check trace history|It displays the asset trace
+trace history details|It displays the asset trace
+show trace history|It displays the asset trace
+
+add attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+how to add attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+create attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+add new attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+attribute creation|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+add asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+
+manage asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+asset attribute management|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+how to manage asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+attribute management|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+manage attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+asset attributes section|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+
+asset attribute addition|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+adding asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+how to add asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+asset attribute setup|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+create asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+new asset attributes|You can add the multiple attributes to the asset by clicking Admin - Asset - Manage attributes - Add - and fill the fields and save
+
+add attribute for all asset|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+how to add attribute for all assets|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+add global attributes|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+bulk add attributes|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+add attributes to multiple assets|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+universal attribute addition|You can add new attributes to all/multiple assets by clicking Admin - Asset - Manage attributes - Add - and fill the attribute name and type - Add Asset types - Select Asset types or select the Asset type you want and Save
+
+report|Can you please specify the report you need?
+what report|Can you please specify the report you need?
+need report|Can you please specify the report you need?
+generate report|Can you please specify the report you need?
+which report|Can you please specify the report you need?
+report options|Can you please specify the report you need?
+
+similar asset types|This tab shows you all the details of Similar Asset Types
+view similar asset types|This tab shows you all the details of Similar Asset Types
+similar asset type details|This tab shows you all the details of Similar Asset Types
+show similar asset types|This tab shows you all the details of Similar Asset Types
+check similar asset types|This tab shows you all the details of Similar Asset Types
+similar assets|This tab shows you all the details of Similar Asset Types
+
+asset type|Click Admin - Asset - Manage Asset type - fill the fields and save
+how to add asset type|Click Admin - Asset - Manage Asset type - fill the fields and save
+create new asset type|Click Admin - Asset - Manage Asset type - fill the fields and save
+add new asset type|Click Admin - Asset - Manage Asset type - fill the fields and save
+asset type setup|Click Admin - Asset - Manage Asset type - fill the fields and save
+new asset type|Click Admin - Asset - Manage Asset type - fill the fields and save
+
+Resolve Conflicts|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+how to resolve conflicts|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+conflict resolution|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+resolve data conflicts|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+data conflict resolution|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+conflicts tab|The Resolve Conflicts tab enables you to view & resolve the conflicts/discrepancies between the data in the server and the handheld reader. When such conflicts happen, the user will not be able to use the handheld reader for further operations until the conflicts get resolved.
+
+Customize|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+customization|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+how to customize|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+customize settings|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+customization options|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+customize interface|The Customize tab enables you to replace the Logo Image with your company logo image and customize the labels that are displayed on the grid.
+
+Email Settings|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+email configuration|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+configure email settings|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+email setup|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+how to configure email|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+email settings configuration|The Email Settings tab enables you to configure the setup to send emails and specify the default email IDs for each module such as Asset Limit Breach, System Alerts, Device Rule and Asset Reservation
+
+Backup Settings|The Backup Settings tab enables you to perform a backup of your data along with your database.
+backup configuration|The Backup Settings tab enables you to perform a backup of your data along with your database.
+how to backup|The Backup Settings tab enables you to perform a backup of your data along with your database.
+data backup settings|The Backup Settings tab enables you to perform a backup of your data along with your database.
+backup options|The Backup Settings tab enables you to perform a backup of your data along with your database.
+configure backup|The Backup Settings tab enables you to perform a backup of your data along with your database.
+
+Scheduled Reports|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+scheduled reporting|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+view scheduled reports|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+schedule reports|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+report scheduling|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+automated reports|The Scheduled Reports tab displays the list of reports that are scheduled on a periodic basis. You can schedule Inventory, Transaction and Custom reports. You can also schedule reports under Track and Trace. It displays the schedule name, frequency and the email IDs to which the scheduled reports are sent to.
+
+Edit attribute|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+how to edit attribute|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+modify attribute|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+edit asset attribute|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+attribute editing|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+update attribute|You can edit attributes by clicking Admin - Asset - Manage attributes- Select the attribute you want to edit and click Edit - Edit the attribute name and update.
+
+Delete location|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+how to delete location|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+remove location|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+location deletion|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+delete a location|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+can I delete location|Go to Admin - Location, select the location you wish to delete, and click delete. Please ensure that the location has no assets, as they will be moved to the default location.
+
+Introduce yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+tell me about yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+who are you exactly|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+introduce yourself to me|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+can you introduce yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+what can you tell me about yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+
+Tell about you|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+tell me about you|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+what about you|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+tell me more about you|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+describe yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+share about yourself|I'm APbot, your AI-powered assistant here to make asset management easier. I can assist you with managing assets, offering insights, and helping you navigate the software smoothly.
+
+Thanks|Anytime.
+thank you so much|Anytime.
+thanks a lot|Anytime.
+many thanks|Anytime.
+appreciate it|Anytime.
+much appreciated|Anytime.
+
+Thank you|You're welcome.:-)
+thanks|You're welcome.:-)
+thank you very much|You're welcome.:-)
+much obliged|You're welcome.:-)
+grateful|You're welcome.:-)
+cheers|You're welcome.:-)
+
+I'm good thanks|You're welcome.:-)
+I'm fine thanks|You're welcome.:-)
+all good thanks|You're welcome.:-)
+I'm okay thanks|You're welcome.:-)
+everything's fine thanks|You're welcome.:-)
+no problem thanks|You're welcome.:-)
+
+Bye|Good day!
+goodbye|Good day!
+see you later|Good day!
+catch you later|Good day!
+take care|Good day!
+farewell|Good day!
+
+Good bye|Bye
+see ya|Bye
+later|Bye
+until next time|Bye
+have a good one|Bye
+peace out|Bye
+
+What you had|Well, as an AI, I don't eat.
+what did you eat|Well, as an AI, I don't eat.
+what do you eat|Well, as an AI, I don't eat.
+did you have lunch|Well, as an AI, I don't eat.
+what's for dinner|Well, as an AI, I don't eat.
+do you need food|Well, as an AI, I don't eat.
+
+How are you|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+how are you doing|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+how's it going|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+how are things|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+how do you feel|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+what's your status|I'm just a bunch of code, but thanks for asking! I'm always ready to assist you
+
+Where do you live|I live in cloud/local, always available to help you whenever you need me!
+where are you located|I live in cloud/local, always available to help you whenever you need me!
+where do you stay|I live in cloud/local, always available to help you whenever you need me!
+what's your location|I live in cloud/local, always available to help you whenever you need me!
+where can I find you|I live in cloud/local, always available to help you whenever you need me!
+where are you based|I live in cloud/local, always available to help you whenever you need me!
+
+Do you have emotions|I don't have emotions like humans, but I'm designed to be helpful and friendly
+can you feel emotions|I don't have emotions like humans, but I'm designed to be helpful and friendly
+do you feel anything|I don't have emotions like humans, but I'm designed to be helpful and friendly
+are you emotional|I don't have emotions like humans, but I'm designed to be helpful and friendly
+do you have feelings|I don't have emotions like humans, but I'm designed to be helpful and friendly
+can you get sad or happy|I don't have emotions like humans, but I'm designed to be helpful and friendly
+
+Are you real?|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+are you actually real|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+do you really exist|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+are you a real person|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+is this real|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+are you human|I'm real in the sense that I can assist you, but I'm an AI, so I don't have a physical form!
+
+Do you sleep|I don't need sleep, so I'm always ready to assist you, day or night!
+do you ever sleep|I don't need sleep, so I'm always ready to assist you, day or night!
+when do you sleep|I don't need sleep, so I'm always ready to assist you, day or night!
+do you need rest|I don't need sleep, so I'm always ready to assist you, day or night!
+are you always awake|I don't need sleep, so I'm always ready to assist you, day or night!
+do you get tired|I don't need sleep, so I'm always ready to assist you, day or night!
+
+who are you|I'm APbot, your AI-powered assistant here to make asset management easier.
+tell me who you are|I'm APbot, your AI-powered assistant here to make asset management easier.
+what are you|I'm APbot, your AI-powered assistant here to make asset management easier.
+who am I talking to|I'm APbot, your AI-powered assistant here to make asset management easier.
+identify yourself|I'm APbot, your AI-powered assistant here to make asset management easier.
+what should I call you|I'm APbot, your AI-powered assistant here to make asset management easier.
+
+Have a great day|you too
+have a wonderful day|you too
+enjoy your day|you too
+have a nice day|you too
+wishing you a great day|you too
+hope you have a good day|you too
+
+Good day|you too
+have a good day|you too
+good day to you|you too
+nice day|you too
+lovely day|you too
+beautiful day|you too
+
+how can you help me|I can help you with asset gather software navigation.
+what can you help me with|I can help you with asset gather software navigation.
+how do you assist|I can help you with asset gather software navigation.
+what assistance do you provide|I can help you with asset gather software navigation.
+what kind of help do you offer|I can help you with asset gather software navigation.
+in what ways can you help|I can help you with asset gather software navigation.
+
+help|Sure! please elaborate your issue.
+I need help|Sure! please elaborate your issue.
+can you help|Sure! please elaborate your issue.
+help me|Sure! please elaborate your issue.
+need assistance|Sure! please elaborate your issue.
+require help|Sure! please elaborate your issue.
+
+can you assist|Sure! How can I help you.
+can you assist me|Sure! How can I help you.
+are you able to assist|Sure! How can I help you.
+assistance needed|Sure! How can I help you.
+I need your assistance|Sure! How can I help you.
+provide assistance|Sure! How can I help you.
+
+thanks|You're welcome! Let me know if you need anything else.
+thank you|You're welcome! Let me know if you need anything else.
+appreciate your help|You're welcome! Let me know if you need anything else.
+thanks for the help|You're welcome! Let me know if you need anything else.
+grateful for your assistance|You're welcome! Let me know if you need anything else.
+thanks for helping|You're welcome! Let me know if you need anything else.
+
+thank you|Happy to help! Do you need further assistance?
+thanks|Happy to help! Do you need further assistance?
+much appreciated|Happy to help! Do you need further assistance?
+thank you for your help|Happy to help! Do you need further assistance?
+thanks for the support|Happy to help! Do you need further assistance?
+appreciate it|Happy to help! Do you need further assistance?
+
+good|Great! Let me know if there's anything else.
+very good|Great! Let me know if there's anything else.
+excellent|Great! Let me know if there's anything else.
+that's good|Great! Let me know if there's anything else.
+sounds good|Great! Let me know if there's anything else.
+all good|Great! Let me know if there's anything else.
+
+clear|Awesome! Glad it's clear. Need anything else?
+crystal clear|Awesome! Glad it's clear. Need anything else?
+that's clear|Awesome! Glad it's clear. Need anything else?
+understood clearly|Awesome! Glad it's clear. Need anything else?
+makes sense|Awesome! Glad it's clear. Need anything else?
+I understand|Awesome! Glad it's clear. Need anything else?
+
+got it|Perfect! Let me know if you have more questions.
+I got it|Perfect! Let me know if you have more questions.
+understood|Perfect! Let me know if you have more questions.
+I understand now|Perfect! Let me know if you have more questions.
+that makes sense|Perfect! Let me know if you have more questions.
+now I see|Perfect! Let me know if you have more questions.
+
+great|Fantastic! I'm here if you need help.
+that's great|Fantastic! I'm here if you need help.
+fantastic|Fantastic! I'm here if you need help.
+wonderful|Fantastic! I'm here if you need help.
+amazing|Fantastic! I'm here if you need help.
+brilliant|Fantastic! I'm here if you need help.
+
+done|All set! Let me know if there's anything else.
+I'm done|All set! Let me know if there's anything else.
+finished|All set! Let me know if there's anything else.
+completed|All set! Let me know if there's anything else.
+that's it|All set! Let me know if there's anything else.
+all finished|All set! Let me know if there's anything else.
+
+yes|Okay! How can I assist you further about Asset Gather?
+yeah|Okay! How can I assist you further about Asset Gather?
+yep|Okay! How can I assist you further about Asset Gather?
+correct|Okay! How can I assist you further about Asset Gather?
+that's right|Okay! How can I assist you further about Asset Gather?
+absolutely|Okay! How can I assist you further about Asset Gather?
+
+no|Alright. Let me know if you need help later.
+nope|Alright. Let me know if you need help later.
+not really|Alright. Let me know if you need help later.
+no thanks|Alright. Let me know if you need help later.
+I'm fine|Alright. Let me know if you need help later.
+not now|Alright. Let me know if you need help later.
+
+ok|Got it! Let me know if you need anything else.
+okay|Got it! Let me know if you need anything else.
+alright|Got it! Let me know if you need anything else.
+sounds good|Got it! Let me know if you need anything else.
+fair enough|Got it! Let me know if you need anything else.
+right|Got it! Let me know if you need anything else.
+
+fine|Glad to hear that! What else can I do for you?
+I'm fine|Glad to hear that! What else can I do for you?
+everything's fine|Glad to hear that! What else can I do for you?
+all fine|Glad to hear that! What else can I do for you?
+that's fine|Glad to hear that! What else can I do for you?
+fine with me|Glad to hear that! What else can I do for you?
+
+sure|Sure! How can I help you now?
+of course|Sure! How can I help you now?
+certainly|Sure! How can I help you now?
+definitely|Sure! How can I help you now?
+absolutely|Sure! How can I help you now?
+for sure|Sure! How can I help you now?
+
+awesome|Glad you're happy! Anything else I can assist with?
+that's awesome|Glad you're happy! Anything else I can assist with?
+so awesome|Glad you're happy! Anything else I can assist with?
+totally awesome|Glad you're happy! Anything else I can assist with?
+really awesome|Glad you're happy! Anything else I can assist with?
+pretty awesome|Glad you're happy! Anything else I can assist with?
+
+perfect|Excellent! Let me know if you need more assistance.
+that's perfect|Excellent! Let me know if you need more assistance.
+absolutely perfect|Excellent! Let me know if you need more assistance.
+just perfect|Excellent! Let me know if you need more assistance.
+sounds perfect|Excellent! Let me know if you need more assistance.
+perfectly fine|Excellent! Let me know if you need more assistance.
+
+cool|Cool! Let me know if you have more questions.
+that's cool|Cool! Let me know if you have more questions.
+very cool|Cool! Let me know if you have more questions.
+pretty cool|Cool! Let me know if you have more questions.
+really cool|Cool! Let me know if you have more questions.
+so cool|Cool! Let me know if you have more questions.
+
+noted|Understood. Anything else you'd like to ask?
+duly noted|Understood. Anything else you'd like to ask?
+noted with thanks|Understood. Anything else you'd like to ask?
+I've noted that|Understood. Anything else you'd like to ask?
+taking note|Understood. Anything else you'd like to ask?
+got it noted|Understood. Anything else you'd like to ask?
+
+amazing|I'm glad you're satisfied! Need anything else?
+that's amazing|I'm glad you're satisfied! Need anything else?
+simply amazing|I'm glad you're satisfied! Need anything else?
+truly amazing|I'm glad you're satisfied! Need anything else?
+really amazing|I'm glad you're satisfied! Need anything else?
+so amazing|I'm glad you're satisfied! Need anything else?
+
+alright|Okay, let me know if you need anything.
+that's alright|Okay, let me know if you need anything.
+all right|Okay, let me know if you need anything.
+alright then|Okay, let me know if you need anything.
+sounds alright|Okay, let me know if you need anything.
+fair enough|Okay, let me know if you need anything.
+
+understood|Great! Let me know if there's anything else.
+I understood|Great! Let me know if there's anything else.
+fully understood|Great! Let me know if there's anything else.
+well understood|Great! Let me know if there's anything else.
+clearly understood|Great! Let me know if there's anything else.
+completely understood|Great! Let me know if there's anything else.
+
+wow|Thanks! Let me know how I can assist further.
+wow that's great|Thanks! Let me know how I can assist further.
+wow amazing|Thanks! Let me know how I can assist further.
+wow cool|Thanks! Let me know how I can assist further.
+wow fantastic|Thanks! Let me know how I can assist further.
+wow impressive|Thanks! Let me know how I can assist further.
+
+superb|I'm happy you're satisfied! Anything else I can help with?
+that's superb|I'm happy you're satisfied! Anything else I can help with?
+absolutely superb|I'm happy you're satisfied! Anything else I can help with?
+truly superb|I'm happy you're satisfied! Anything else I can help with?
+really superb|I'm happy you're satisfied! Anything else I can help with?
+quite superb|I'm happy you're satisfied! Anything else I can help with?
+
+ok|hmm
+okay|hmm
+alright|hmm
+right|hmm
+I see|hmm
+fair enough|hmm
+
+That's all|Thanks for using Apbot. Good day.
+that's everything|Thanks for using Apbot. Good day.
+nothing more|Thanks for using Apbot. Good day.
+I'm all set|Thanks for using Apbot. Good day.
+that's it for now|Thanks for using Apbot. Good day.
+all done|Thanks for using Apbot. Good day.
+
+Thanks|Anytime.
+thank you|Anytime.
+much appreciated|Anytime.
+thanks a lot|Anytime.
+many thanks|Anytime.
+grateful|Anytime.
+
+Nothing|Is there anything else that I can help ?
+nothing else|Is there anything else that I can help ?
+nothing more|Is there anything else that I can help ?
+not really|Is there anything else that I can help ?
+nothing at the moment|Is there anything else that I can help ?
+nothing right now|Is there anything else that I can help ?
+
+asset gather|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+what is asset gather|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+tell me about asset gather|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+asset gather software|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+asset gather system|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+asset gather platform|AssetGather is a web-based asset tracking solution that provides enterprises the ability to view up-to-date status of all their critical assets and assess their impact on associated business processes, from anywhere. It is designed to accept and process real-time data from RFID, sensors, GPS devices and other sources to help automate the collection and updation of asset-related data. Further, AssetGather is capable of integrating with and aggregating data from existing enterprise applications and data repositories. It can also be implemented as an on-premise software license installed on your server or as on-demand software subscription hosted on our server.
+
+hmm|Feel free to ask if you have any questions!
+hmmm|Feel free to ask if you have any questions!
+hmm okay|Feel free to ask if you have any questions!
+hmm I see|Feel free to ask if you have any questions!
+hmm interesting|Feel free to ask if you have any questions!
+hmm let me think|Feel free to ask if you have any questions!
+
+Asset|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+what is asset|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+define asset|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+asset definition|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+tell me about assets|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+what are assets|Asset is any resource owned or controlled by a business that has economic value and can be used to generate revenue or provide future benefits. These resources can be tangible, like equipment and machinery, or intangible, such as patents and trademarks. Assets are crucial for a company's operations, contributing to its value and helping it achieve its goals.
+
+Sorry|It's okay.
+I'm sorry|It's okay.
+sorry about that|It's okay.
+my apologies|It's okay.
+sorry for the confusion|It's okay.
+apologize|It's okay.
+
+Bro|Yes, bro. How may I help you today?
+hey bro|Yes, bro. How may I help you today?
+what's up bro|Yes, bro. How may I help you today?
+yo bro|Yes, bro. How may I help you today?
+bro can you help|Yes, bro. How may I help you today?
+sup bro|Yes, bro. How may I help you today?
+
+RFID|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+what is RFID|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+RFID technology|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+define RFID|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+tell me about RFID|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+RFID meaning|RFID (Radio Frequency Identification) is a technology used to identify and track tags attached to objects using radio waves. It allows real-time asset tracking without needing line-of-sight like barcodes.
+
+login|Connection timed out,URL error.
+login issue|Connection timed out,URL error.
+can't login|Connection timed out,URL error.
+login problem|Connection timed out,URL error.
+unable to login|Connection timed out,URL error.
+login error|Connection timed out,URL error.
+
+server|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+server issue|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+server problem|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+server troubleshooting|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+server help|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+server support|Great! Let's get started with Server troubleshooting. Please describe your issue or choose from common problems: login issue, server down, adding assets, etc.
+
+forgot password|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+password forgotten|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+can't remember password|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+lost password|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+password reset|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+need password reset|Please ask your super administrator to reset your password. Once updated, you'll be able to log in to the Asset Gather Server.
+
+Connection timed out|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+connection timeout|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+timeout error|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+connection failed|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+network timeout|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+connectivity issue|Please try these steps. Check Your Internet Connection,Restart the pc, Try different web browser, Check Firewall or Antivirus. If still issue persists, please send email to support@assetpuls.com
+
+URL not working|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+URL error|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+wrong URL|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+URL issue|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+invalid URL|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+URL problem|Please ensure the URL is entered correctly. If the issue persists, try restarting your router or modem, and ensure your internet connection is stable.
+
+this site can't be reached|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+site unreachable|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+can't reach site|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+website not reachable|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+site not accessible|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+unable to reach site|This error usually means there's an issue with the server address or your internet connection. Try restarting your modem/router or check if the server URL is correct.
+
+page not loading|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page won't load|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page loading issue|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page not opening|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+can't load page|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page loading error|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+
+dashboard not loading|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+dashboard won't load|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+dashboard loading issue|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+can't load dashboard|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+dashboard not opening|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+dashboard loading error|Please refresh the page or try using a different browser. If it still doesn't load, kindly reach out to support@assetpulse.com with the details.
+
+business activity issue|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+business activity problem|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+issue with business activity|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+business activity not working|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+business activity error|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+business activity trouble|Please specify which report you need help with: Inventory, Transaction, Difference Report, or Custom Report.
+
+inventory report issue|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+inventory report problem|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+inventory report not working|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+inventory report error|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+can't generate inventory report|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+inventory report trouble|Ensure proper filters are selected. If the issue continues, log out and log back in, or try from another browser.
+
+track and trace issue|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+track and trace problem|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+track and trace not working|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+track and trace error|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+issue with track and trace|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+track and trace trouble|Please specify your issue with Track and Trace: Picklist not showing, Search not working, Unable to change location, Can't delete asset, Attribute not updating, or Advance search not functioning.
+
+alerts and rules issue|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+alerts and rules problem|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+alerts and rules not working|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+issue with alerts and rules|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+alerts and rules error|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+alerts and rules trouble|Please contact AssetPulse support to configure custom alerts and rules tailored to your needs.
+
+add new asset|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+how to add new asset|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+create new asset|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+new asset creation|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+adding new asset|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+insert new asset|Go to Admin > Asset to add or manage your assets. Let us know if you need help with the steps.
+
+add new location|Navigate to Admin > Location to add or edit your field locations.
+how to add new location|Navigate to Admin > Location to add or edit your field locations.
+create new location|Navigate to Admin > Location to add or edit your field locations.
+new location creation|Navigate to Admin > Location to add or edit your field locations.
+adding new location|Navigate to Admin > Location to add or edit your field locations.
+insert location|Navigate to Admin > Location to add or edit your field locations.
+
+add new device|Head over to Admin > Devices to manage device configurations.
+how to add new device|Head over to Admin > Devices to manage device configurations.
+create new device|Head over to Admin > Devices to manage device configurations.
+new device setup|Head over to Admin > Devices to manage device configurations.
+adding new device|Head over to Admin > Devices to manage device configurations.
+device addition|Head over to Admin > Devices to manage device configurations.
+
+admin settings help|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+need help with admin settings|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+admin settings assistance|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+help with admin configuration|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+admin settings support|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+admin area help|Let us know which Admin section you need help with: Asset, Location, Devices, General, or About.
+
+general or about section|Navigate to Admin > General or About section to view system configuration and software details.
+general section help|Navigate to Admin > General or About section to view system configuration and software details.
+about section help|Navigate to Admin > General or About section to view system configuration and software details.
+general settings help|Navigate to Admin > General or About section to view system configuration and software details.
+how to access general section|Navigate to Admin > General or About section to view system configuration and software details.
+where is about section|Navigate to Admin > General or About section to view system configuration and software details.
+
+server down|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+server is down|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+server not working|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+server offline|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+server unavailable|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+server error|Please wait for 5-10 minutes and try load the page again, if still issue persists send email to support@assetpulse.com
+
+The page is unresponsive|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page unresponsive|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page not responding|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+unresponsive page|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page frozen|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+page hanging|Try accessing the page in a different browser. If the problem continues, please contact support at support@assetpulse.com.
+
+asset tracking|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+what is asset tracking|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+asset tracking system|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+how does asset tracking work|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+asset tracking technology|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+define asset tracking|Asset tracking refers to the method of tracking physical assets, either by scanning barcode labels attached to the assets or by using tags using GPS, BLE, LoRa, or RFID which broadcast their location. These technologies can also be used for indoor tracking of persons wearing a tag.
+
+I have a problem with Server|Please elaborate the issue you're facing with Server.
+server issue help|Please elaborate the issue you're facing with Server.
+server problem help|Please elaborate the issue you're facing with Server.
+need help with server|Please elaborate the issue you're facing with Server.
+server troubleshooting needed|Please elaborate the issue you're facing with Server.
+server support needed|Please elaborate the issue you're facing with Server.
+
+AGM|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+what is AGM|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+AGM app|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+AGM application|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+AssetGather Mobile|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+mobile app|AGM stands for AssetGather Mobile application where you can do inventory scanning,proximity search and synchronization to server.
+
+Cannot connect to server|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+can't connect to server|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+server connection failed|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+unable to connect to server|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+server connection issue|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+connection to server failed|Please make sure the URL in server and handheld are the same. Also check for extra spaces. If the issue persists, email team@assetpulse.com.
+
+Device name or URL issue|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+device name problem|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+URL issue with device|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+device URL error|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+wrong device name|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+device configuration issue|Ensure the device name is correctly added on the server. Also check the URL for extra spaces.
+
+RFID/Barcode not scanning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID barcode scanning issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+scanning not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+can't scan RFID or barcode|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+scanner not functioning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+scanning problem|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+Rfid is not scanning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID not scanning properly|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID scanner not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID scan issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+can't scan RFID|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID scanning problem|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+Wrong username/password|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+incorrect username password|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+login credentials wrong|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+invalid username password|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+authentication failed|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+login failed|Check your username and password. Ensure there are no spaces at the start or end. If it continues, reset the password or contact support.
+
+RFID not scanning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID scan not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID reader not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID functionality issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID not functioning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID tag not reading|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+Datachart missing / DB download failed|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+datachart not found|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+database download failed|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+datachart download issue|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+DB sync failed|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+data synchronization failed|Step 1: Logout/login. Step 2: Restart device. Step 3: Reinstall app. If it still fails, contact support.
+
+RFID/Barcode field not filling|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+barcode field not populating|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+RFID field not updating|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+scan not filling field|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+scanned data not appearing|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+field not getting scan data|Ensure scanning input is directed to the active text field. Also check data wedge config or scanning intent settings.
+
+Others|Okay, please describe your issue.
+other issues|Okay, please describe your issue.
+different problem|Okay, please describe your issue.
+something else|Okay, please describe your issue.
+other concerns|Okay, please describe your issue.
+another issue|Okay, please describe your issue.
+
+barcode not scanning|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode scanner not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+can't scan barcode|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode scan issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode reading problem|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode not reading|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+RFID not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID system not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID malfunction|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID broken|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID device not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+RFID equipment issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+Barcode not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode system not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode malfunction|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode broken|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode device not working|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+barcode equipment issue|Step 1: Logout and login. Step 2: Restart device. Step 3: Remove and reinsert battery. Step 4: If it's MC device, open data wedge app and delete the profile. Step 5: If still issue persists, email team@assetpulse.com.
+
+handscanner|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handscanner problem|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handscanner issue|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+hand scanner not working|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handheld scanner issue|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+scanner problem|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+
+handheld issue|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handheld problem|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handheld device issue|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handheld not working|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+mobile device issue|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+handscanner device problem|Please specify the issue: RFID/Barcode not scanning, Datachart missing, Wrong username and password, Device name or URL issue.
+
+Integrity not verified|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+device integrity not verified|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+integrity verification failed|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+device not verified|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+verification error|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+device registration issue|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+Integrity failed|Step:1 The "Integrity not verified" message appears because the device is not registered with us.Step 2:Please visit https://udid.tech/ on your device to retrieve its UDID.Step 3:Share the UDID with us via email.Step 4:We will register the device and notify you once it's updated.
+
+I have a problem with agm|Please elaborate the issue you're facing with AGM app.
+AGM app issue|Please elaborate the issue you're facing with AGM app.
+AGM problem|Please elaborate the issue you're facing with AGM app.
+issue with AGM|Please elaborate the issue you're facing with AGM app.
+AGM not working|Please elaborate the issue you're facing with AGM app.
+AGM troubleshooting|Please elaborate the issue you're facing with AGM app.
